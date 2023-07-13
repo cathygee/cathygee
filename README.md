@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cathrine!</h1>
-<h3 align="center">A passionate Cybersecurity Specialist from Zim</h3>
+<h3 align="center">A passionate Cybersecurity Anayst from Zim</h3>
 
 - 🌱 I’m currently learning **python programming.**
 
